@@ -8,3 +8,4 @@ if tinta % 1 != 0:
 else:
     tinta = int(tinta)
 print(f'A quantidade de baldes de tinta necessária é: {tinta} baldes')
+
