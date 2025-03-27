@@ -24,3 +24,4 @@ else:
             else:
                 resultado = numero1 / numero2
                 print(f'O  resultado da divisão é: {resultado} ')
+                
