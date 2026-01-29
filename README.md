@@ -52,7 +52,7 @@ Since these are isolated class exercises:
 ## 👨‍💻 About the Author
 **Gabriel Paloni**
 *Computer Science Student in Campinas, Brazil.*
-Passionate about **Cybersecurity**, **AI**, and **Software Engineering**. Formerly an English Teacher at CNA, now focused on building secure and scalable tech solutions.
+Passionate about **Cybersecurity**, **AI**, and **Software Engineering**.
 
 ---
 <p align="center">
